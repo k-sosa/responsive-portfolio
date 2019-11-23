@@ -6,3 +6,10 @@ body {
 footer {
     width: 100%;
 }
+.bottom-left {
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+    display: block; background-color: darkcyan;
+    
+  }
